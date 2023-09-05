@@ -38,7 +38,7 @@ In case you are having difficulties: check that the tag  is corresponding to the
 
 **Step 4: 
 **
-Player data file is just an example of the output you get with thanks to the player tracker c# script
+The file "PlayerData" is just an example of the output you get with thanks to the player tracker c# script
 
 
 Thanks for reading this tutorial
