@@ -22,6 +22,7 @@ Scale the empty object to the size of your space exploration.
 
 **Step 3: 
 **
+
 ![Screenshot 2023-09-05 172850](https://github.com/EtienneXYZ/Position_Tracker_Heat_Map_Unity/assets/115432494/6fb7695f-cbb6-4fee-950c-1b04393efb44)
 
 Repeat the previous procedure for the next design variations:  "RoomTrigger2", "RoomTrigger3"
